@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Rebel Tools',
-  tagline: 'Documentation for developers',
+  tagline: 'The all-in-one toolset for progressive movements 🦋',
   url: 'https://docs.rebel.tools',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -24,8 +24,13 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/activisthandbook/rebeltools',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://rebel.tools',
+          label: 'Open app',
           position: 'right',
         },
       ],
@@ -88,13 +93,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/activisthandbook/rebeltools-docs/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/activisthandbook/rebeltools-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
