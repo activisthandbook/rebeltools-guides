@@ -1,14 +1,26 @@
 ---
 id: join
-title: Join our team
-sidebar_label: Join our team
+title: Join our community
+sidebar_label: Join our community
 slug: /join
 ---
+## Sign up
+We'd love to meet you! Rebel Tools is a project of the Activist Handbook community. We encourage everyone to join us:   
+👉 **[Sign up](https://activism.rocks/join)**
 
-## Using Rebel Tools
-There are two ways to start using Rebel Tools:
+:::note Diversity matters
+We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join us.
+::: 
 
-1. **Via our platform:** Just visit [rebel.tools](https://rebel.tools) and get started for free.
-2. **Self-hosted**: Set up a server and host it on your own domain.
+## Say hi 👋
+Currently, the following people are working on Rebel Tools:
+- Daniel Desira (he/him) 
+- Joppe Hoekstra (he/him)
+- Liam Mcsherry (he/him)
+- Iason Paschalidis-Gerostergiou (he/him)
 
-## Start developing
+We'd love to hear from you: contact@activisthandbook.org
+
+## Our community
+Rebel Tools is a project of the Activist Handbook community.
+

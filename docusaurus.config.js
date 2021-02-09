@@ -44,7 +44,15 @@ module.exports = {
             {
               label: 'Introduction',
               to: 'docs/',
-            }
+            },
+            {
+              label: 'User guide',
+              to: 'docs/',
+            },
+            {
+              label: 'Developers docs',
+              to: 'docs/',
+            },
           ],
         },
         {
@@ -78,7 +86,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Built by the Activist Handbook community`,
     },
   },
   presets: [

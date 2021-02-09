@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Professional tools for mobilisers',
+    title: 'Professional tools for mobilisers 💪',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tools for pro's, now available to everyone: grow your movement, host events, increase engagement, and much more!  
       </>
     ),
   },
   {
-    title: 'Easy to use (we promise!)',
+    title: 'Easy to use (we promise!) ⚡️',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Rebel Tools was build to make mobilising easy. No technical skills required, get started within minutes.
       </>
     ),
   },
   {
-    title: '100% free and open source',
+    title: '100% free and open source 🤑',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        You can use Rebel Tools at absolutely no costs. And all our code is publicly available for developers.
       </>
     ),
   },
@@ -45,7 +42,7 @@ function Feature({imageUrl, title, description}) {
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
+          {/* <img className={styles.featureImage} src={imgUrl} alt={title} /> */}
         </div>
       )}
       <h3>{title}</h3>
