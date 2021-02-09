@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Rebel Tools',
+  tagline: 'Documentation for developers',
+  url: 'https://docs.rebel.tools',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'activisthandbook', // Usually your GitHub org/user name.
+  projectName: 'rebeltools-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Rebel Tools',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
