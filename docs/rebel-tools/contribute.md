@@ -1,8 +1,8 @@
 ---
-id: introduction
-title: Introduction
-sidebar_label: Introduction
-slug: /
+id: contribute
+title: Start contributing
+sidebar_label: Start contributing
+slug: /contribute
 ---
 
 ## Using Rebel Tools

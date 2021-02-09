@@ -1,7 +1,8 @@
 module.exports = {
   someSidebar: {
-    'Rebel Tools': ['rebel-tools/introduction', 'doc2'],
-    'Start developing': ['doc2', 'doc3'],
-    Features: ['mdx'],
+    'Rebel Tools': ['rebel-tools/introduction', 'rebel-tools/contribute', 'rebel-tools/join'],
+    'User guide': ['self-hosted/introduction', 'self-hosted/requirements'],
+    Documentation: ['documentation/documentation'],
+    'Set up self-hosted': ['self-hosted/introduction', 'self-hosted/requirements'],
   },
 };

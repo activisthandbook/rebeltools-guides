@@ -19,18 +19,18 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Guides 📖',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog ✨', position: 'left'},
         {
-          href: 'https://github.com/activisthandbook/rebeltools',
-          label: 'GitHub',
+          href: 'https://rebel.tools',
+          label: 'Open App 🔗',
           position: 'right',
         },
         {
-          href: 'https://rebel.tools',
-          label: 'Open app',
+          href: 'https://github.com/activisthandbook/rebeltools',
+          label: 'GitHub 💻',
           position: 'right',
         },
       ],
@@ -42,13 +42,9 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Introduction',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+            }
           ],
         },
         {
