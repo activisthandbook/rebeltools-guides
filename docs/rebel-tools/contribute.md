@@ -5,12 +5,12 @@ sidebar_label: Start contributing
 slug: /contribute
 ---
 
-There are many ways to help us build Rebel Tools. We encourage everyone to **[sign up](http://activism.rocks/join)** so that we can schedule a video call and see how you can contribute. 
+There are many ways to help us build Rebel Tools. We encourage everyone to **[sign up](http://activism.rocks/rebeltools)** so that we can schedule a video call and see how you can contribute. 
 
 :::note We're all about learning! 🎓
 Even if you do not have any experience with web development, we very much welcome you on our team.
 
-We regularly organise workshops where we exchange our knowledge. If you are excited about this project and are willing to learn, you should definitely [sign up](http://activism.rocks/join)!
+We regularly organise workshops where we exchange our knowledge. If you are excited about this project and are willing to learn, you should definitely [sign up](http://activism.rocks/rebeltools)!
 :::
 
 Here's some ways to get started straight away:

@@ -4,9 +4,9 @@ title: Join our community
 sidebar_label: Join our community
 slug: /join
 ---
-## Sign up
+
 We'd love to meet you! Rebel Tools is a project of the Activist Handbook community. We encourage everyone to join us:   
-1. **[Sign up](http://activism.rocks/join)** to join our community.
+1. **[Sign up](http://activism.rocks/rebeltools)** to join our community.
 2. Join our Slack using the invite link you've received.
 3. Follow us on [Instagram](https://instagram.com/activisthandbook), [Facebook](https://facebook.com/activisthandbook) and [Twitter](https://instagram.com/activistbook). 
 

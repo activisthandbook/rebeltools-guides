@@ -64,7 +64,7 @@ module.exports = {
           items: [
             {
               label: 'Join us',
-              href: 'http://activism.rocks/join',
+              href: 'http://activism.rocks/rebeltools',
             },
             {
               label: 'GitHub',
