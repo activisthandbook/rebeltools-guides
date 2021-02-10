@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Rebel Tools',
   tagline: 'The all-in-one toolset for progressive movements 🦋',
-  url: 'https://docs.rebel.tools',
+  url: 'https://guides.rebel.tools',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'activisthandbook', // Usually your GitHub org/user name.
-  projectName: 'rebeltools-docs', // Usually your repo name.
+  projectName: 'rebeltools-guides', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Rebel Tools',
@@ -105,13 +105,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/activisthandbook/rebeltools-docs/edit/master',
+            'https://github.com/activisthandbook/rebeltools-guides/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/activisthandbook/rebeltools-docs/edit/master/',
+            'https://github.com/activisthandbook/rebeltools-guides/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
