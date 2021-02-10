@@ -13,7 +13,7 @@ We are working on an ambitious project to help small activists movements around 
 Rebel Tools is a project of the [Activist Handbook](https://www.activisthandbook.org) community.
 
 :::note You can contribute 🙌
-Learn how you can [contribute](contribute) and [join our team](join). To learn how Rebel Tools works, check out the [documentation](documentation).
+Learn how you can **[contribute](contribute)** and **[join our team](join)**. To learn how Rebel Tools works, check out our **[documentation](documentation)**.
 :::
 
 
