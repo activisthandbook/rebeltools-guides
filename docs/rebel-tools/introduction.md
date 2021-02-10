@@ -5,6 +5,8 @@ sidebar_label: Introduction
 slug: /
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 We are working on an ambitious project to help small activists movements around the globe with smart tech tools.
 - Professional tools for mobilisers
 - Easy to use (we promise!)
@@ -22,6 +24,8 @@ There are two ways to start using Rebel Tools.
 
 1. **Via our platform:** Just visit [rebel.tools](https://rebel.tools) and get started right away. The platform is still in development, so you will have to sign up for early-access first.
 2. **Self-hosting**: Set up a server, customise the app to your needs and host it on your own domain.
+
+<img alt="Docusaurus with Keytar" src={useBaseUrl('img/screenshot.png')} />
 
 ## Q&A
 **Is Rebel Tools really free to use?**  
