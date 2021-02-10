@@ -24,6 +24,7 @@ Features:
 
 ## Beta 0.2: Early Access & Events
 *ETA: Q2 2021*
+
 Features:
 - Public pages & their respective edit windows:
   - Homepage
@@ -38,6 +39,7 @@ Features:
 
 ## Beta 0.3: Pictures & Profiles
 *ETA: Q3 2021*
+
 New in tech-stack:
 - Storage (for image uploads)
 
@@ -49,6 +51,7 @@ Features:
 
 ## Beta 0.4: Email & Engagement
 *ETA: Q4 2021*
+
 New in tech-stack:
 - Email
 
@@ -61,6 +64,7 @@ Features:
 
 ## Version 1: Ready to Rebel
 *ETA: Q1 2022*
+
 All features from the Beta tested and available to the public.
 
 ## Version 2+: Integrations & Insights
