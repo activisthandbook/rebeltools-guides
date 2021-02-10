@@ -5,7 +5,6 @@ sidebar_label: Introduction
 slug: /developer-docs
 ---
 
-We think everyone should be able to contribute to this project
 All code of Rebel Tools can be found in our [GitHub repository](https://github.com/activisthandbook/rebeltools).
 
 To learn more about how our app was built, check out these articles:

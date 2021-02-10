@@ -8,7 +8,7 @@ slug: /documentation
 This documentation website was built using [Docusaurus 2](https://v2.docusaurus.io/), and is hosted using the free [Netlify](https://www.netlify.com/) plan. Everytime we commit an update of our articles to GitHub, this website automatically gets updated.
 
 :::note
-This is a summary of how to use Docusaurus to help you get started quickly. For a more detailed explanation, check out [their documentation]((https://v2.docusaurus.io/)).
+This is a summary of how to use Docusaurus to help you get started quickly. For a more detailed explanation, check out [their documentation](https://v2.docusaurus.io/).
 :::
 
 ## Prerequisites
