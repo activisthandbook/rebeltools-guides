@@ -21,7 +21,7 @@ Learn how you can [contribute](contribute) and [join our team](join). To learn h
 There are two ways to start using Rebel Tools.
 
 1. **Via our platform:** Just visit [rebel.tools](https://rebel.tools) and get started right away. The platform is still in development, so you will have to sign up for early-access first.
-2. **Self-hosted**: Set up a server, customise the app to your needs and host it on your own domain.
+2. **Self-hosting**: Set up a server, customise the app to your needs and host it on your own domain.
 
 ## Q&A
 **Is Rebel Tools really free to use?**  

@@ -1,11 +1,8 @@
 ---
 id: introduction
-title: Set up self-hosted
+title: Developer documentation
 sidebar_label: Introduction
-slug: /self-hosted
+slug: /developer-docs
 ---
 
 Lorem
-
-
-

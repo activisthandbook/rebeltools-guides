@@ -50,7 +50,11 @@ module.exports = {
               to: 'docs/',
             },
             {
-              label: 'Developers docs',
+              label: 'Developer docs',
+              to: 'docs/',
+            },
+            {
+              label: 'Set up self-hosting',
               to: 'docs/',
             },
           ],
@@ -59,29 +63,33 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Join us',
+              href: 'http://activism.rocks/join',
             },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
+            },
+            {
+              label: 'Blog',
+              to: 'blog',
+            },
+          ],
+        },
+        {
+          title: 'Socials',
+          items: [
+            {
+              label: 'Instagram',
+              href: 'https://instagram.com/activisthandbook',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://facebook.com/activisthandbook',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/activistbook',
             },
           ],
         },
