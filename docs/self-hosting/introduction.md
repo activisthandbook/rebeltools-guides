@@ -22,10 +22,12 @@ In addition you'll need:
 
 ## Steps to set up self-hosting
 ### 1. Fork our repository, then clone locally
-Fork our GitHub repository. Clone it to your local computer.
+[Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) our [GitHub repository](https://github.com/activisthandbook/rebeltools) and then [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) it to your local computer.
 
 ### 2. Install and setup Amplify
+:::note
 Follow the [guide by AWS](https://docs.amplify.aws/start/getting-started/installation/q/integration/vue) for more details.
+:::
 
 Step 1: Install the Amplify CLI using NPM:
 ```bash
