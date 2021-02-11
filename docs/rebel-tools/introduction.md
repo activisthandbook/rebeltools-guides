@@ -8,17 +8,14 @@ slug: /
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 We are working on an ambitious project to help small activists movements around the globe with smart tech tools.
-- Professional tools for mobilisers
-- Easy to use (we promise!)
-- 100% free and open source
-
-Rebel Tools is a project of the [Activist Handbook](https://www.activisthandbook.org) community.
 
 :::note You can contribute 🙌
 Learn how you can **[contribute](contribute)** and **[join our team](join)**. To learn how Rebel Tools works, check out our **[documentation](documentation)**.
 :::
 
-<iframe src="https://app.pitch.com/app/embed/f7b73217-c0cc-46c2-a140-3197c8e83ed1" allow="fullscreen" allowFullScreen="" width="560" height="315" style={{border:0}}></iframe>
+<div class="video_wrapper">
+<iframe class="video" frameborder="0" width="100%" height="100%" src="https://app.pitch.com/app/embed/f7b73217-c0cc-46c2-a140-3197c8e83ed1" allow="fullscreen" allowFullScreen="">
+</iframe></div>
 
 ## Start using Rebel Tools
 There are two ways to start using Rebel Tools.
