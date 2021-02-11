@@ -46,16 +46,16 @@ module.exports = {
               to: 'docs/',
             },
             {
-              label: 'User guide',
-              to: 'docs/',
+              label: 'User guides',
+              to: 'docs/user-guides',
             },
             {
               label: 'Developer docs',
-              to: 'docs/',
+              to: 'docs/developer-docs',
             },
             {
               label: 'Set up self-hosting',
-              to: 'docs/',
+              to: 'docs/self-hosting',
             },
           ],
         },
