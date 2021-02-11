@@ -18,7 +18,7 @@ Rebel Tools is a project of the [Activist Handbook](https://www.activisthandbook
 Learn how you can **[contribute](contribute)** and **[join our team](join)**. To learn how Rebel Tools works, check out our **[documentation](documentation)**.
 :::
 
-<iframe src="https://app.pitch.com/app/embed/f7b73217-c0cc-46c2-a140-3197c8e83ed1" allow="fullscreen" allowFullScreen="" width="560" height="315" style="border:0"></iframe>
+<iframe src="https://app.pitch.com/app/embed/f7b73217-c0cc-46c2-a140-3197c8e83ed1" allow="fullscreen" allowFullScreen="" width="560" height="315" style={{border:0}}></iframe>
 
 ## Start using Rebel Tools
 There are two ways to start using Rebel Tools.
