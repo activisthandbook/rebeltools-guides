@@ -21,7 +21,7 @@ Currently, the following people are working on Rebel Tools:
 - Daniel Desira (he/him) 
 - Joppe Hoekstra (he/him)
 - Liam Mcsherry (he/him)
-- Iason Paschalidis-Gerostergiouu (he/him)
+- Iason Paschalidis-Gerostergiou (he/him)
 
 We'd love to hear from you: contact@activisthandbook.org
 
