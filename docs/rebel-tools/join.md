@@ -5,6 +5,8 @@ sidebar_label: Join our community
 slug: /join
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 We'd love to meet you! Rebel Tools is a project of the Activist Handbook community. We encourage everyone to join us:   
 1. **[Sign up](http://activism.rocks/rebeltools)** to join our community.
 2. Join our Slack using the invite link you've received.
@@ -19,7 +21,7 @@ Currently, the following people are working on Rebel Tools:
 - Daniel Desira (he/him) 
 - Joppe Hoekstra (he/him)
 - Liam Mcsherry (he/him)
-- Iason Paschalidis-Gerostergiou (he/him)
+- Iason Paschalidis-Gerostergiouu (he/him)
 
 We'd love to hear from you: contact@activisthandbook.org
 
@@ -29,3 +31,5 @@ This is a project by the developers team of the Activist Handbook community.
 Activist Handbook is a Wikipedia-like platform for rebels all around the world to exchange their experiences. We needed a platform to host our events and grow our movement, and we decided to develop it ourselves and make it available to everyone for free. 
 
 If you would like to contribute to this project as well, we highly recommend to join our community. We'd love to get to know you!
+
+<img alt="Docusaurus with Keytar" src={useBaseUrl('img/activist-handbook.png')} />
