@@ -7,7 +7,7 @@ slug: /
 
 We are working on an ambitious project to help small activists movements around the globe with smart tech tools. 
 
-We are a **radically democratic** community. Rebel Tools is built by people like you. We highly encourage everyone who’s interested in our platform to contribute.
+We are a ***radically democratic*** project. We highly encourage you to join our community and start contributing. 
 
 :::note You can contribute 🙌
 Learn how you can **[contribute](contribute)** and **[join our team](join)**. To learn how Rebel Tools works, check out our **[documentation](documentation)**.
