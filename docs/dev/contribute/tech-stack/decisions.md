@@ -3,6 +3,11 @@ id: decisions
 title: Our decisions
 ---
 
+We selected our tech stack based on the following criteria:
+- Good documentation.
+- Developing should be easy. Spend more time on developing the app, less on setting up the backend. Make optimal use of volunteer hours.
+- Cheap, especially for a small to medium user base.
+
 ## Working with limited resources
 We do not really have a budget to work with, so everything needs to be built by volunteers. To make optimal use of the time that our volunteers have available, we need to put together a tech stack that allows us to build an app with as little work as possible. That means we might have to sacrifice in other areas:
 - **Web app instead of native app:** By building a progressive web app (PWA), we save a lot of time, since we do not have to make dedicated apps for each platform.

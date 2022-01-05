@@ -25,19 +25,14 @@ module.exports = {
         {
           type: 'category',
           label: 'Tech stack',
-          items: ['dev/contribute/tech-stack/decisions', 'dev/contribute/tech-stack/client', 'dev/contribute/tech-stack/server', 'dev/contribute/tech-stack/documentation']
+          items: ['dev/contribute/tech-stack/decisions', 'dev/contribute/tech-stack/client', 'dev/contribute/tech-stack/server', 'dev/contribute/tech-stack/documentation', 'dev/contribute/tech-stack/repositories']
         },
       ],
     },
     {
       type: 'category',
       label: 'Self hosting 🌐',
-      items: [
-        {
-          type: 'doc',
-          id: 'dev/self-hosting/get-started',
-        },
-      ],
+      items: ['dev/self-hosting/get-started', 'dev/self-hosting/setup', 'dev/self-hosting/customise' ],
     },
     {
           type: 'category',

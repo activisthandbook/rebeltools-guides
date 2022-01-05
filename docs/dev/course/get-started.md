@@ -7,7 +7,7 @@ sidebar_label: Get started
 **In this free course for rebels, you will learn all about the basics of web development. No previous experience is required to follow along.**
 
 :::info
-This course is part of [Rebel Academy](https://activisthandbook.org/en/academy), an initiative developed by Activist Handbook to stimulate peer-to-peer learning among change-makers.
+This course is developed by [Activist Handbook](https://activisthandbook.org/), the Wikipedia for rebels.
 :::
 
 # Requirements

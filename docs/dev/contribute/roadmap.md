@@ -4,6 +4,12 @@ title: Roadmap
 sidebar_label: Roadmap
 ---
 
+On this page, we explain what we are currently working on and what our future plans are.
+
+:::info
+To see what we have been working on in the past, see our **[previous releases](https://github.com/activisthandbook/rebeltools-guides/releases)**.
+:::
+
 ## Alpha version (in progress)
 - **Home**
   - [x] Layout
