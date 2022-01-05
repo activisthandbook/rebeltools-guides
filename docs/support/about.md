@@ -5,7 +5,7 @@ sidebar_label: Introduction
 slug: /
 ---
 
-We are working on an ambitious project to help small activists movements around the globe with smart tech tools. 
+<!-- We are working on an ambitious project to help small activists movements around the globe with smart tech tools. 
 
 This is a ***radically democratic*** project. We highly encourage you to join our community and start contributing. 
 
@@ -44,4 +44,4 @@ Rebel Tools is being developed by the Activist Handbook community. We needed thi
 Rebel Tools is still a work in progress. Want to be among the first ones to be using it? Apply for early access: contact@activisthandbook.org
 
 
-
+ -->

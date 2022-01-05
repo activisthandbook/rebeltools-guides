@@ -9,7 +9,7 @@ Follow these steps to set up your own (customised) version of Rebel Tools.
 Fork our [repository](https://github.com/activisthandbook/rebeltools) to your own GitHub account.
 
 ## 2. Setup a Firebase project
-You will need a [Firebase](firebase.google.com) account to host your own instance. There is a free plan available to get started.
+You will need a [Firebase](https://firebase.google.com) account to host your own instance. There is a free plan available to get started.
 
 **Important steps:**
 - [Setup](https://firebase.google.com/docs/web/setup) your Firebase project.
