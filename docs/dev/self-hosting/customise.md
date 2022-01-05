@@ -3,6 +3,12 @@ id: customise
 title: Customise
 ---
 
+In this guide, we explain how you can customise your own Rebel Tools instance. 
+
+:::warning Technical experience required
+Want us to set up a custom website for you? Send us a message: hey@rebel.tools
+:::
+
 If you are hosting your own instance, you can change every aspect of the app. We recommend you to start by editing the following files:
 - quasar.conf.js ([Learn more](https://v2.quasar.dev/quasar-cli/quasar-conf-js))
 - src/css/quasar.variables.scss ([Learn more](https://quasar.dev/style/sass-scss-variables#customizing))

@@ -5,6 +5,10 @@ title: Setup
 
 Follow these steps to set up your own (customised) version of Rebel Tools.
 
+:::warning Technical experience required
+Want us to set up a custom website for you? Send us a message: hey@rebel.tools
+:::
+
 ## 1. Fork our repository
 Fork our [repository](https://github.com/activisthandbook/rebeltools) to your own GitHub account.
 
