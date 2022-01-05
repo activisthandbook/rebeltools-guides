@@ -6,10 +6,9 @@ sidebar_label: Get started
 
 Follow these instructions to setup the development enviroment on your computer.
 
-:::info
-🐣 New to web development? We have set up a **[free web development course](/docs/dev/course/get-started)** to teach you the basics of HTML, CSS, Javascript, Vue.js, Quasar and Firebase.
+:::info Need help?
+We want everyone to be able to contribute to our project. How about we schedule a video call to help you get started? We would love to meet you: hey@rebel.tools
 :::
-
 
 ## 1. Prerequisites
 In this guide, we assume you already have the following installed:

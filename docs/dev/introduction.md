@@ -5,10 +5,12 @@ title: Developer documentation
 sidebar_label: Introduction
 ---
 
-All code of Rebel Tools can be found in our [GitHub repository](https://github.com/activisthandbook/rebeltools).
+Rebel Tools is an all-in-one toolset for green, social and progressive movements. In our developer documentation, you can find the following:
+- ❤️ **[Contribute as developer](/docs/dev/contribute/get-started)**
+- 🌐 **[Self host an instance of Rebel Tools](/docs/dev/contribute/self-host)**
 
-To learn more about how our app was built, check out these articles:
-1. **[Front-end](front-end)**: We use the Vue and Quasar frameworks to build our web app.
-2. **[Back-end](back-end)**: To host our web app, we use AWS Amplify.
-3. **[Documentation](documentation)**: We use Docusaurus for this documentation site. 
+:::info No developer experience?
+You do not need previous experience as web developer to contribute to Rebel Tools. As long as you are eager to learn and committed to become part of our team, we are happy to teach you everything you need to know to contribute. 
 
+Send us a message if you are interested: hey@rebel.tools
+:::

@@ -34,11 +34,6 @@ module.exports = {
       label: 'Self hosting 🌐',
       items: ['dev/self-hosting/get-started', 'dev/self-hosting/setup', 'dev/self-hosting/customise' ],
     },
-    {
-          type: 'category',
-          label: 'Web dev course 🎓',
-          items: ['dev/course/get-started']
-        },
   ],
 };
 // module.exports = {
