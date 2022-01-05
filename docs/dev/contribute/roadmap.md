@@ -1,7 +1,6 @@
 ---
 id: roadmap
 title: Roadmap
-sidebar_label: Roadmap
 ---
 
 On this page, we explain what we are currently working on and what our future plans are.

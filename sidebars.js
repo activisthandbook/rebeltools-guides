@@ -23,6 +23,10 @@ module.exports = {
           id: 'dev/contribute/roadmap',
         },
         {
+          type: 'doc',
+          id: 'dev/contribute/project-structure',
+        },
+        {
           type: 'category',
           label: 'Tech stack',
           items: ['dev/contribute/tech-stack/decisions', 'dev/contribute/tech-stack/client', 'dev/contribute/tech-stack/server', 'dev/contribute/tech-stack/documentation', 'dev/contribute/tech-stack/repositories']
