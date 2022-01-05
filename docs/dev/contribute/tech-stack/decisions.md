@@ -1,17 +1,7 @@
 ---
-id: introduction
-title: Developer documentation
-sidebar_label: Introduction
-slug: /developer-docs
+id: decisions
+title: Our decisions
 ---
-
-All code of Rebel Tools can be found in our [GitHub repository](https://github.com/activisthandbook/rebeltools).
-
-To learn more about how our app was built, check out these articles:
-1. **[Front-end](front-end)**: We use the Vue and Quasar frameworks to build our web app.
-2. **[Back-end](back-end)**: To host our web app, we use AWS Amplify.
-3. **[Documentation](documentation)**: We use Docusaurus for this documentation site. 
-
 
 ## Working with limited resources
 We do not really have a budget to work with, so everything needs to be built by volunteers. To make optimal use of the time that our volunteers have available, we need to put together a tech stack that allows us to build an app with as little work as possible. That means we might have to sacrifice in other areas:

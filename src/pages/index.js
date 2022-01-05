@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Professional tools for mobilisers 💪',
+    title: 'Powerful tools for mobilisers 📢',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -17,7 +17,7 @@ const features = [
     ),
   },
   {
-    title: 'Easy to use (we promise!) ⚡️',
+    title: 'Accessible and easy to use ⚡️',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -26,11 +26,11 @@ const features = [
     ),
   },
   {
-    title: '100% free and open source 🤑',
+    title: 'Free and open source ❤️',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        You can use Rebel Tools at absolutely no costs. And all our code is publicly available for developers.
+        Small movements can use Rebel Tools at absolutely no costs. And all our code is publicly available for developers.
       </>
     ),
   },
@@ -56,25 +56,35 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Guides`}
       description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary', styles.heroBanner)} style={{paddingTop: 96 + 'px', paddingBottom: 96 + 'px'}}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              Get Started
-            </Link>
-          </div>
+          <p className={styles.buttons}>
+              <Link
+                style={{marginRight: 6 + 'px'}}
+                className={clsx(
+                  'button button--secondary button--lg',
+                  styles.getStarted,
+                )}
+                to={useBaseUrl('docs/support')}>
+                User guides
+              </Link>
+              <Link
+                style={{marginRight: 6 + 'px'}}
+                className={clsx(
+                  'button button--secondary button--lg',
+                  styles.getStarted,
+                )}
+                to={useBaseUrl('docs/dev')}>
+                Developer docs
+              </Link>
+          </p>
         </div>
       </header>
-      <main>
+      <main style={{paddingTop: 32 + 'px'}}>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

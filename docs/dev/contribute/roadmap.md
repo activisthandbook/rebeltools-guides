@@ -2,11 +2,38 @@
 id: roadmap
 title: Roadmap
 sidebar_label: Roadmap
-slug: /roadmap
 ---
 
-## Beta 0.1: Authentication & Admin Settings
-*ETA: Q1 2021*
+## Alpha version (in progress)
+- **Home**
+  - [x] Layout
+  - [x] Getting started (sign in)
+  - [x] New movement
+  - [x] SEO Campaigns (Action Network)
+  - [ ] Waiting list signup form
+- **Movement page**
+  - [x] Layout
+  - [x] Signup form
+  - [ ] Events
+- **Dashboard**
+    - [x] Layout
+    - [x] Page: customise page, movement settings
+    - [ ] Calendar: overview, create new event
+    - [ ] Community
+- **Super admin**
+  - [x] List of all movements
+  - [x] List of all users
+  - [ ] List of all events
+
+## Beta version
+Everything in the alpha version, plus:
+- **Movement page**
+  - [ ] Campaigns
+- **Dashboard**
+  - [ ] Campaigns
+
+
+<!-- ## Beta 0.1: Authentication & Admin Settings
 
 New in tech-stack:
 - Passwordless authentication, database, hosting, front-end framework
@@ -23,7 +50,6 @@ Features:
   - Superadmin settings
 
 ## Beta 0.2: Early Access & Events
-*ETA: Q2 2021*
 
 Features:
 - Public pages & their respective edit windows:
@@ -38,7 +64,6 @@ Features:
   - Title and description
 
 ## Beta 0.3: Pictures & Profiles
-*ETA: Q3 2021*
 
 New in tech-stack:
 - Storage (for image uploads)
@@ -50,7 +75,6 @@ Features:
   - Member profiles
 
 ## Beta 0.4: Email & Engagement
-*ETA: Q4 2021*
 
 New in tech-stack:
 - Email
@@ -63,7 +87,6 @@ Features:
   - Suggestions to share
 
 ## Version 1: Ready to Rebel
-*ETA: Q1 2022*
 
 All features from the Beta tested and available to the public.
 
@@ -77,4 +100,4 @@ Features:
 - Internal pages
   - Democratisation tools: general assemblies, voting, swift at-action decision making
 - Dashboard
-  - Smart insights
+  - Smart insights -->

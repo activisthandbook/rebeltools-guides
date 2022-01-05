@@ -12,31 +12,43 @@ module.exports = {
     navbar: {
       title: 'Rebel Tools',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo Rebel Tools',
         src: 'img/logo.svg',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Guides 📖',
+          to: 'docs/contribute',
+          activeBasePath: 'docs/contribute',
+          label: 'Contribute ❤️',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog ✨', position: 'left'},
+        {
+          to: 'docs/support',
+          activeBasePath: 'docs/support',
+          label: 'User guides 📖',
+          position: 'left',
+        },
+        {
+          to: 'docs/dev',
+          activeBasePath: 'docs/dev',
+          label: 'Developer docs 💻',
+          position: 'left',
+        },
+        // { to: 'blog', label: 'Blog ✨', position: 'right'},
         {
           href: 'https://rebel.tools',
-          label: 'Open App 🔗',
+          label: 'Open App',
           position: 'right',
         },
         {
           href: 'https://github.com/activisthandbook/rebeltools',
-          label: 'GitHub 💻',
+          label: 'GitHub',
           position: 'right',
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Docs',
@@ -47,16 +59,12 @@ module.exports = {
             },
             {
               label: 'User guides',
-              to: 'docs/user-guides',
+              to: 'docs/support',
             },
             {
               label: 'Developer docs',
-              to: 'docs/developer-docs',
-            },
-            {
-              label: 'Set up self-hosting',
-              to: 'docs/self-hosting',
-            },
+              to: 'docs/dev',
+            }
           ],
         },
         {
@@ -68,12 +76,8 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
+              href: 'https://github.com/activisthandbook/rebeltools',
+            }
           ],
         },
         {
@@ -94,7 +98,6 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Built by the Activist Handbook community`,
     },
   },
   presets: [
