@@ -62,9 +62,9 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <p className={styles.buttons}>
+          <p className={styles.buttons} style={{flexWrap: 'wrap'}}>
               <Link
-                style={{marginRight: 6 + 'px'}}
+                style={{margin: 6 + 'px'}}
                 className={clsx(
                   'button button--secondary button--lg',
                   styles.getStarted,
@@ -73,7 +73,7 @@ function Home() {
                 User guides
               </Link>
               <Link
-                style={{marginRight: 6 + 'px'}}
+                style={{margin: 6 + 'px'}}
                 className={clsx(
                   'button button--secondary button--lg',
                   styles.getStarted,

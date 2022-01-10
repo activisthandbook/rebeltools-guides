@@ -38,6 +38,11 @@ module.exports = {
       label: 'Self hosting 🌐',
       items: ['dev/self-hosting/get-started', 'dev/self-hosting/setup', 'dev/self-hosting/customise' ],
     },
+    {
+      type: 'category',
+      label: 'Web dev course 🎓',
+      items: ['dev/course/get-started', 'dev/course/basics', 'dev/course/html', 'dev/course/css', 'dev/course/javascript', 'dev/course/vuejs', 'dev/course/quasar', 'dev/course/firebase' ],
+    },
   ],
 };
 // module.exports = {
